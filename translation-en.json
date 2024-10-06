@@ -1,0 +1,37 @@
+{
+  "base_translations": {
+    "app_name": "Monoclean EN",
+    "welcome": "Welcome",
+    "home": "Home",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "save": "Save",
+    "cancel": "Cancel",
+    "yes": "Yes",
+    "no": "No"
+  },
+  
+  "messages": {
+    "welcome_message": "Welcome to Monoclean!",
+    "logout_confirmation": "Are you sure you want to logout?",
+    "booking_confirmation": "Your booking is confirmed!",
+    "error_message": "An error occurred. Please try again later."
+  },
+  
+  "customer": {
+    "schedule_cleaning": "Schedule a Cleaning",
+    "service_history": "Service History",
+    "view_cleaners": "View Available Cleaners",
+    "price_estimate": "Price Estimate",
+    "total_price": "Total Price"
+  },
+  
+  "cleaner": {
+    "accept_job": "Accept Job",
+    "complete_job": "Complete Job",
+    "job_history": "Job History",
+    "view_schedule": "View Your Schedule",
+    "earnings": "Earnings"
+  }
+}
